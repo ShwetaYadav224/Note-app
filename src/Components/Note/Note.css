@@ -1,0 +1,29 @@
+.note{
+    height: 350px;
+    width: 350px;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius:15% ;
+    padding: 25px;
+    font-size: 1.2rem;
+   
+}
+.note-text{
+    height: 150px;
+    flex: 1;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    font-size: 1.2rem;
+    resize: none;
+    outline: none;
+   
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-right:'10px';
+    color:white;
+}

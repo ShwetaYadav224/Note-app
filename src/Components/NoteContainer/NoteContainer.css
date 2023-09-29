@@ -1,0 +1,14 @@
+.note-container-notes{
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+    overflow-y: scroll;   
+}
+.note-container{
+    height: 100vh;
+    width: 80%;
+    padding-left: 2%;
+    background-color: white;
+    padding-top: 2%;
+
+}
